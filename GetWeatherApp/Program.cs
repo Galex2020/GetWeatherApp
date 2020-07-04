@@ -5,7 +5,7 @@ using static System.Console;
 using GetWeatherApp.Models;
 using System.Linq;
 
-// Add comment
+// Add comment 2
 
 namespace GetWeatherApp
 {
